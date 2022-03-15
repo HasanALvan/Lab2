@@ -11,7 +11,5 @@ public class Main {
         Hasan.enroll_class("SE 240");
         Kayhan.setclass("Digital System Design");
         Kayhan.teach();
-
-
     }
 }
